@@ -7,7 +7,7 @@ int polica = 0, stlpec = 1, dlzka, dlzka1, sirka, sirka1;
 char sklad[201][201], sklad1[2001][2001], nacitanie[201];
 
 void nacitaj_bludisko() {
-	int i, j;
+	int i, j; 
 	sirka = strlen(nacitanie);
 	for (i = 0; i < sirka; i++) {
 		skladXXXXX[0][i] = nacitanie[i];
