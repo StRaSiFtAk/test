@@ -50,7 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-*.c
+
 
 *.sln
 Debug/
@@ -58,3 +58,4 @@ Debug/
 *.vs
 *.vcxproj
 *.vcxproj.*
+*.c
