@@ -47,7 +47,7 @@ void hladaj_cestu() {
 }
 
 
-int main(void) {
+int main(void) {kk
 	// sem napis svoje riesenie
 	int i, j;
 

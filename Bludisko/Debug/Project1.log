@@ -1,0 +1,8 @@
+﻿  Source.c
+c:\users\strasiftak\source\repos\project1\project1\source.c(18): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\strasiftak\source\repos\project1\project1\source.c(18): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\strasiftak\source\repos\project1\project1\source.c(10): warning C4101: 'j': unreferenced local variable
+c:\users\strasiftak\source\repos\project1\project1\source.c(55): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\strasiftak\source\repos\project1\project1\source.c(52): warning C4101: 'j': unreferenced local variable
+c:\users\strasiftak\source\repos\project1\project1\source.c(52): warning C4101: 'i': unreferenced local variable
+  Project1.vcxproj -> C:\Users\StRaSiFtAk\source\repos\Project1\Debug\Project1.exe
